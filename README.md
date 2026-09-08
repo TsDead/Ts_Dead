@@ -34,7 +34,7 @@
 
 Я независимый разработчик и инди-предприниматель.  
 Создаю **Telegram Mini Apps**, **веб-сервисы** и **игры на Unity**.  
-Работаю под брендами **NOVACODE** (фриланс) и **Duallix LLC** (игровая студия).
+Работаю под брендами **NOVACODE** (личный) и **Duallix LLC** (игровая студия).
 
 - 🚀 **Full‑Stack**: Python (FastAPI, aiogram), React, TypeScript, Tailwind, Docker  
 - 🎮 **GameDev**: Unity 6, C#, оптимизация рендеринга, геймдизайн  
@@ -88,7 +88,7 @@
   - Полный CI/CD на Amvera PaaS  
   - 110 тестов, headless‑отладка WebView через Puppeteer
 
-> [Попробовать →](https://t.me/YFBstore_bot) (Mini App внутри бота)
+> [Попробовать →](https://t.me/YFB_Store_bot) (Mini App внутри бота)
 
 ---
 
