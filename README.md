@@ -20,9 +20,6 @@
   <a href="mailto:stepchikcrypto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.avito.ru/user/5b9c8c7e4b3a8f6d7c9e1f2a3b4c5d6e">
-    <img src="https://img.shields.io/badge/Avito-FF6F00?style=for-the-badge&logo=avito&logoColor=white" alt="Avito"/>
-  </a>
   <a href="https://tsdead.github.io/novacode">
     <img src="https://img.shields.io/badge/Портфолио-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
@@ -34,11 +31,11 @@
 
 Я независимый разработчик и инди-предприниматель.  
 Создаю **Telegram Mini Apps**, **веб-сервисы** и **игры на Unity**.  
-Работаю под брендами **NOVACODE** (личный) и **Duallix LLC** (игровая студия).
+Веду проекты под брендами **NOVACODE** (личный бренд) и **Duallix LLC** (игровая студия).
 
 - 🚀 **Full‑Stack**: Python (FastAPI, aiogram), React, TypeScript, Tailwind, Docker  
 - 🎮 **GameDev**: Unity 6, C#, оптимизация рендеринга, геймдизайн  
-- 🧠 **Бизнес-мышление**: не просто пишу код — приношу пользу и строю продукты
+- 🧠 **Бизнес-мышление**: строю продукты, а не просто код
 
 ---
 
@@ -79,7 +76,7 @@
 ### 🤖 YFB Store — Telegram Mini App  
 *Живой магазин одежды с автоимпортом из канала*
 
-- **Заказчик:** @YFBstore  
+- **Заказчик:** @YFB_Store_bot  
 - **Стек:** FastAPI, aiogram, React, TypeScript, Tailwind, SQLite, Docker  
 - **Особенности:**  
   - Парсинг постов (словари брендов/категорий, отслеживание «продано»)  
@@ -95,7 +92,7 @@
 ### 🖼 Холографическая выставка «Кумиры Северной Пальмиры»  
 *Имиджевый лендинг с 3D-эффектом*
 
-- **Заказчик:** клиент из СПб (Kwork)  
+- **Заказчик:** клиент из СПб  
 - **Стек:** WordPress + Elementor (Free), кастомный JS (mousemove 3D-ротация, scroll‑scrubbing)  
 - **Специфика:** работа на бесплатном хостинге (InfinityFree) с заблокированным `mail()` — обошли через формы
 
@@ -116,13 +113,13 @@
 
 | Направление | Статус | Детали |
 |-------------|--------|--------|
-| **NOVACODE (фриланс)** | Активно | Telegram‑боты, веб‑разработка, лендинги, калькуляторы, SVG‑дизайн. Работаю **без бирж** — только прямые контакты. |
-| **Duallix LLC (GameDev)** | Долгосрочный | Инди‑студия, текущий проект **Obsession of Fear**. Приоритет №1, не прерывается ради заказов. |
+| **NOVACODE** (личный бренд) | Активно | Разработка Telegram‑ботов, веб‑сервисов, лендингов, калькуляторов, SVG‑дизайн. Работаю только по прямым контактам. |
+| **Duallix LLC** (GameDev) | Долгосрочный | Инди‑студия, текущий проект **Obsession of Fear**. Приоритет №1, не прерывается ради заказов. |
 | **AI‑агентство** (стратегически) | В планах | Цель: $10k/месяц. Продукт, не услуги (отказ от retainer‑ботов). |
 
 ---
 
-## 📚 Чему научился (и продолжаю)
+## 📚 Ключевые навыки
 
 - ✅ Парсинг кастомных постов Telegram с кириллицей и словарями  
 - ✅ Отладка WebView через Puppeteer в headless‑режиме  
@@ -138,8 +135,6 @@
 ## 🌐 Где меня найти
 
 - **Telegram (личка):** [@Ts_Deadd](https://t.me/Ts_Deadd)  
-- **Telegram (канал/обсуждения):** *скоро*  
-- **Avito:** [@n0vacode](https://www.avito.ru/user/5b9c8c7e4b3a8f6d7c9e1f2a3b4c5d6e)  
 - **Портфолио:** [tsdead.github.io/novacode](https://tsdead.github.io/novacode)  
 - **GitHub:** [TsDead](https://github.com/TsDead)  
 - **Email:** `stepchikcrypto@gmail.com`
