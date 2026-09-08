@@ -20,7 +20,7 @@
   <a href="mailto:stepchikcrypto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://tsdead.github.io/novacode">
+  <a href="https://tsdead.github.io/novacode-portfolio/">
     <img src="https://img.shields.io/badge/Портфолио-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -144,7 +144,7 @@
 ## 🌐 Где меня найти
 
 - **Telegram (личка):** [@Ts_Deadd](https://t.me/Ts_Deadd)  
-- **Портфолио:** [tsdead.github.io/novacode](https://tsdead.github.io/novacode)  
+- **Портфолио:** [tsdead.github.io/novacode-portfolio/](https://tsdead.github.io/novacode-portfolio/)  
 - **GitHub:** [TsDead](https://github.com/TsDead)  
 - **Email:** `stepchikcrypto@gmail.com`
 
