@@ -186,27 +186,10 @@ class Stepan(IndieDeveloper):
   </tr>
 </table>
 
-## 📊 GitHub-статистика
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TsDead&show_icons=true&include_all_commits=true&count_private=true&locale=ru&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=10" alt="GitHub-статистика"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsDead&layout=compact&langs_count=8&locale=ru&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=10" alt="Языки"/>
-</p>
+## 🔥 Серия коммитов
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TsDead&locale=ru&background=0d1117&border=30363d&stroke=30363d&ring=a78bfa&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="Серия коммитов"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsDead&bg_color=0d1117&color=a78bfa&line=7c3aed&point=22d3ee&area=true&area_color=7c3aed&title_color=a78bfa&hide_border=false&border_color=30363d&radius=10&custom_title=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86" width="100%" alt="График активности"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsDead/Ts_Dead/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TsDead/Ts_Dead/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/TsDead/Ts_Dead/output/github-snake-dark.svg" alt="Змейка, поедающая мой график контрибьюций"/>
-  </picture>
 </p>
 
 ## 💡 Интересный факт
